@@ -1,6 +1,6 @@
 int sensorPin = A0;
 int ledPin = 13;
-int threshold = 300;
+int threshold = 400;
 void setup() {
   // put your setup code here, to run once:
   pinMode(sensorPin, INPUT);
